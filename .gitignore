@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+## Bcrypt.js File
+bcrypt_pw.js
+
+## Postgres
+postgres/
+
+## Docker
+docker-compose.yml
+Dockerfile
